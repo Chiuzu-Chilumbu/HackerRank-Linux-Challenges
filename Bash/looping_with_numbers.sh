@@ -1,4 +1,5 @@
-#!/bin/bash 
+#!/bin/bash -x
+
 # Challenge: Use a for loop to display the natural numbers from 1 to 50.
 
 # loop  from 1 to 50

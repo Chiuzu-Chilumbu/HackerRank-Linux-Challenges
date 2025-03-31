@@ -1,4 +1,7 @@
-#!/bin/bash
+#!/bin/bash -x
+
+# Challenge : Given two integers, X and Y, find their sum, difference, product, and quotient.
+
 
 read -r num1
 read -r num2
